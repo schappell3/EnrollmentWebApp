@@ -1,0 +1,33 @@
+.logout 
+{
+    margin: 0;
+    border: 0;
+    background: none;
+    overflow: visible;
+    color: maroon;
+    cursor: pointer;
+}
+
+.errorMessage
+{
+    color: #ff9900;
+}
+
+a:link
+{
+    text-decoration:none;
+    color: maroon;
+}
+
+a:visited 
+{
+    text-decoration:none;
+    color: maroon;
+}
+
+hr
+{
+    color: maroon;
+}
+
+
